@@ -3,7 +3,7 @@
 
 name: Node CI
 
-on: [push]
+
 
       - uses: actions/upload-artifact@master
         with:
